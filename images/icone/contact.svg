@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 19 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g id="Plan-de-travail1" serif:id="Plan de travail1" transform="matrix(0.866913,0,0,0.929042,-1.60779,-1.2027)">
+        <rect x="1.855" y="1.295" width="21.886" height="30.787" style="fill:none;"/>
+        <g transform="matrix(1.14281,0,0,1.07799,-1796.23,-25.059)">
+            <g transform="matrix(1.02642,0,0,1.06516,-42.0201,0.907753)">
+                <g transform="matrix(1.04001,0,0,1.02881,-13.6442,-7.98971)">
+                    <ellipse cx="1535.34" cy="34.047" rx="4.888" ry="4.561" style="fill:white;"/>
+                </g>
+                <g transform="matrix(0.917573,0,0,0.951911,178.189,-6.84572)">
+                    <path d="M1540.99,47.183C1540.99,45.983 1540.47,44.832 1539.54,43.983C1538.62,43.135 1537.37,42.658 1536.06,42.658C1533.06,42.658 1529.23,42.658 1526.23,42.658C1524.92,42.658 1523.67,43.135 1522.75,43.983C1521.83,44.832 1521.31,45.983 1521.31,47.183C1521.31,51.837 1521.31,58.412 1521.31,58.412L1540.99,58.412C1540.99,58.412 1540.99,51.837 1540.99,47.183Z" style="fill:white;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

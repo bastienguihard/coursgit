@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 27 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g id="Plan-de-travail2" serif:id="Plan de travail2" transform="matrix(0.994911,0,0,1.11157,-0.112282,-2.80949)">
+        <rect x="0.113" y="2.527" width="26.829" height="23.863" style="fill:none;"/>
+        <clipPath id="_clip1">
+            <rect x="0.113" y="2.527" width="26.829" height="23.863"/>
+        </clipPath>
+        <g clip-path="url(#_clip1)">
+            <g id="Plan-de-travail1" serif:id="Plan de travail1" transform="matrix(0.992081,0,0,0.884071,-0.638942,-0.854808)">
+                <rect x="0.619" y="3.736" width="27.198" height="27.198" style="fill:none;"/>
+                <g transform="matrix(0.570299,0.572807,-0.534498,0.536849,-871.484,-1066.57)">
+                    <g transform="matrix(1,0,0,0.759822,4.54747e-13,38.7396)">
+                        <path d="M1711.2,171.478L1711.2,203.993L1734.18,203.933L1734.11,171.478L1727.87,161.296L1717.68,161.296L1711.2,171.478Z" style="fill:white;"/>
+                    </g>
+                    <g transform="matrix(1,0,0,1,-0.618309,-0.373272)">
+                        <circle cx="1723.31" cy="166.638" r="2.286" style="fill:rgb(62,62,62);"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 50 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g transform="matrix(1.57092,0,0,1.57092,-2708.16,-299.259)">
+        <g transform="matrix(0.816924,0,0,0.816924,202.104,33.4431)">
+            <g transform="matrix(1,0,0,1,0.0377546,0)">
+                <path d="M1901.43,209.844L1901.43,223.673L1877.76,223.673L1877.96,209.844L1889.81,219.346L1901.43,209.844Z" style="fill:white;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,27.0943,-0.849839)">
+                <path d="M1862.72,218.815L1850.87,209.313L1874.2,209.313L1862.72,218.815Z" style="fill:white;"/>
+            </g>
+        </g>
+        <g transform="matrix(-1,0,0,1,3487.38,-1.74283)">
+            <g transform="matrix(1,0,0,1,0.331968,8.29921)">
+                <path d="M1755.36,191.05C1750.35,190.965 1743.95,191.866 1743.99,202.608C1744,202.212 1743.29,196.489 1755.36,197.101" style="fill:rgb(132,22,7);"/>
+            </g>
+            <g transform="matrix(5.00222e-17,-0.816924,0.816924,5.00222e-17,1584.69,1723.86)">
+                <path d="M1862.72,218.815L1850.87,209.313L1874.2,209.313L1862.72,218.815Z" style="fill:rgb(132,22,7);"/>
+            </g>
+        </g>
+        <g transform="matrix(-1,0,0,1,3492.11,-2.28228)">
+            <g transform="matrix(1,0,0,1,0.331968,8.29921)">
+                <path d="M1755.36,191.05C1750.35,190.965 1745.72,192.818 1745.76,203.56C1745.8,201.412 1748.82,197.101 1755.36,197.101" style="fill:rgb(217,65,44);"/>
+            </g>
+            <g transform="matrix(5.00222e-17,-0.816924,0.816924,5.00222e-17,1584.69,1723.86)">
+                <path d="M1862.72,218.815L1850.87,209.313L1874.2,209.313L1862.72,218.815Z" style="fill:rgb(217,65,44);"/>
+            </g>
+        </g>
+    </g>
+</svg>

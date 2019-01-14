@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 278 148" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g id="Plan-de-travail2" serif:id="Plan de travail2" transform="matrix(0.945768,0,0,0.959248,-4.99972,-29.171)">
+        <rect x="5.286" y="30.41" width="293.865" height="154.056" style="fill:none;"/>
+        <clipPath id="_clip1">
+            <rect x="5.286" y="30.41" width="293.865" height="154.056"/>
+        </clipPath>
+        <g clip-path="url(#_clip1)">
+            <g id="Plan-de-travail1" serif:id="Plan de travail1" transform="matrix(1.05734,0,0,1.04248,-89.9587,-57.5061)">
+                <rect x="73.489" y="54.334" width="306.683" height="190.771" style="fill:none;"/>
+                <g transform="matrix(1,0,0,1,-858.026,-5934.54)">
+                    <g transform="matrix(1,0,0,1,949.419,6165.31)">
+                        <text x="0px" y="0px" style="font-family:'Verdana', sans-serif;font-size:29.167px;fill:white;">Le Mans Univ</text>
+                    </g>
+                    <g transform="matrix(1,0,0,1,1144.1,6165.31)">
+                        <text x="0px" y="0px" style="font-family:'Verdana', sans-serif;font-size:29.167px;fill:white;">ersité</text>
+                    </g>
+                </g>
+                <g transform="matrix(3.27274,0,0,3.584,-2010.76,-21237.8)">
+                    <path d="M671.7,5979.5L679.048,5979.5L678.682,5965.84L688.504,5979.5L695.041,5979.5L694.62,5949.49L688.107,5949.49L688.367,5968.01L677.22,5949.49L671.196,5949.49L671.7,5979.5" style="fill:white;"/>
+                </g>
+                <g transform="matrix(3.27274,0,0,3.55633,-1925.11,-21073.2)">
+                    <path d="M679.422,5955.79L679.426,5979.74L687.265,5979.74L687.127,5955.82L694.781,5955.82L694.62,5949.49L671.196,5949.49L671.235,5955.79" style="fill:white;"/>
+                </g>
+                <g transform="matrix(1.59179e-16,2.59959,-2.59959,1.59179e-16,15541.8,-1658)">
+                    <path d="M678.987,5925.1L685.653,5934.97L684.705,5943.41L677.275,5943.41L678.192,5937.08L670.557,5925.63L670.633,5914.08L677.207,5914.08L679.539,5917.72L685.922,5917.72L688.254,5914.05L694.102,5914.08L696.557,5917.65L702.983,5917.71L705.407,5914.1L711.933,5914.07L711.886,5925.61L704.426,5936.93L705.436,5943.37L698.176,5943.37L696.962,5935.41L703.505,5925.12L678.987,5925.1" style="fill:white;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

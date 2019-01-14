@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 43 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g id="Plan-de-travail1" serif:id="Plan de travail1" transform="matrix(0.939107,0,0,1.01061,-0.0379919,-3.38318)">
+        <rect x="0.04" y="3.348" width="44.845" height="43.692" style="fill:none;"/>
+        <g transform="matrix(0.938772,0.872352,-0.879839,0.817589,-1435.54,-1624.27)">
+            <g transform="matrix(1,0,0,0.759822,4.54747e-13,38.7396)">
+                <path d="M1711.2,171.478L1711.2,203.993L1734.18,203.933L1734.11,171.478L1727.87,161.296L1717.68,161.296L1711.2,171.478Z" style="fill:white;"/>
+            </g>
+            <g transform="matrix(1,0,0,1,-0.618309,-0.373272)">
+                <circle cx="1723.31" cy="166.638" r="2.286" style="fill:rgb(62,62,62);"/>
+            </g>
+        </g>
+        <g transform="matrix(1.05495,0,0,0.989502,-1186.98,-16.1667)">
+            <g transform="matrix(1.00937,0,0,0.748571,0.209425,6.65367)">
+                <rect x="1118" y="27.256" width="18.424" height="5.809" style="fill:rgb(217,65,44);"/>
+            </g>
+            <g transform="matrix(6.18063e-17,-1,0.755588,4.58368e-17,1115.19,1156.44)">
+                <rect x="1118" y="27.256" width="18.424" height="5.809" style="fill:rgb(217,65,44);"/>
+            </g>
+        </g>
+    </g>
+</svg>

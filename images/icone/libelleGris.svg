@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g id="Plan-de-travail2" serif:id="Plan de travail2" transform="matrix(0.991217,0,0,1.03562,-0.179823,-1.20975)">
+        <rect x="0.181" y="1.168" width="42.319" height="40.248" style="fill:none;"/>
+        <clipPath id="_clip1">
+            <rect x="0.181" y="1.168" width="42.319" height="40.248"/>
+        </clipPath>
+        <g clip-path="url(#_clip1)">
+            <g id="Plan-de-travail1" serif:id="Plan de travail1" transform="matrix(0.949919,0,0,0.967015,-0.412734,-4.30753)">
+                <rect x="0.625" y="5.671" width="44.662" height="41.689" style="fill:none;"/>
+                <g transform="matrix(0.93631,0.880326,-0.877532,0.825062,-1224.52,-1627.04)">
+                    <g transform="matrix(1,0,-5.55112e-17,1,-117.363,110.435)">
+                        <g transform="matrix(1,0,-4.21786e-17,0.759822,5.0944e-13,38.7396)">
+                            <path d="M1711.2,171.478L1711.2,203.993L1734.18,203.933L1734.11,171.478L1727.87,161.296L1717.68,161.296L1711.2,171.478Z" style="fill:rgb(62,62,62);"/>
+                        </g>
+                        <g transform="matrix(1,0,-5.55112e-17,1,-0.618309,-0.373272)">
+                            <circle cx="1723.31" cy="166.638" r="2.286" style="fill:white;"/>
+                        </g>
+                    </g>
+                    <g transform="matrix(1,0,-5.55112e-17,1,-117.363,110.435)">
+                        <g transform="matrix(1,0,-4.21786e-17,0.759822,5.0944e-13,38.7396)">
+                            <path d="M1711.2,171.478L1711.2,203.993L1734.18,203.933L1734.11,171.478L1727.87,161.296L1717.68,161.296L1711.2,171.478Z" style="fill:rgb(62,62,62);"/>
+                        </g>
+                        <g transform="matrix(1,0,-5.55112e-17,1,-0.618309,-0.373272)">
+                            <circle cx="1723.31" cy="166.638" r="2.286" style="fill:white;"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
